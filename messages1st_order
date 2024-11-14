@@ -1,0 +1,35 @@
+#Debug info: 
+ 
+#Data generated with the following .exe file:./EXE
+#Initial condition file (population ages):Compara/pop
+#Initial condition file (oxygen):Compara/oxy
+#Population parameters file:Compara/pars_pop
+#Parameters file (simulation):Compara/pars_sim
+ 
+#Default unit system as given by the S.I. (seconds, meters, moles),
+#let X for space, T for time
+#and M for quantity of substance
+#Grid step (aka delta_x): 1.000000 X 
+#Suggested time increment (aka delta_t): 1.000000 T 
+#Sampling time window: 200.000000 T 
+#User-provided final time: 20000.000000 T 
+#Number of output files: 100 
+ 
+#survival rate: 1.000000 
+#Death rate: 0.0000041667 T^-1 
+#tau_p: 480.0000000000 T
+#aplus: -1.0000000000 T
+#p6/p3: 1.0000000000 
+#Diffusion coefficients (pop, oxy): 0.0000002110 0.500000 X^2/T
+#k_decay: 1.0000000000 T^-1
+#k_consumption: 0.0050000000 X T^-1 M^-1
+#k_source: 1.0000000000 M X^-1 T^-1
+ 
+#Critical oxygen: 0.0100000000 M X^-1 T^-1
+ 
+#neq=3970.427680 M X^-1, ceq=0.0479567122 M X^-1
+#ccr1: 0.0226893098 
+#ccr p6p3: 0.0226893098 
+#typ * hyp: 0.0100000000 
+#typ * hyp: 0.0100000000 
+#Critical oxygen hat: 0.2085213840 
